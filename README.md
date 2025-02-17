@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olisaemekai (Olisaemeka Isife)
-- 👀 I’m interested in web programming with HTML, CSS, JavaScript, Vue.js and Django.
+- 👀 I’m interested in web programming with HTML, CSS, JavaScript, React.js, Inertiajs, and Laravel.
 - 🌱 I’m currently working to improving my backend logic skill.
-- I program with Python and Javascipt.
+- I program with PHP and Javascipt.
 
 
 <!---
